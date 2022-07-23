@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+$white: #fff;
+$black: #000;
+
+$grey: #576574;
+$light-grey: #c8d6e5;
+$mediun-grey: #8395a7;
+$dark-grey: #222f3e;
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  background: #373b44;
+  background: -webkit-linear-gradient(to right, #4286f4, #373b44);
+  background: linear-gradient(to right, #4286f4, #373b44);
+
+  color: $white;
+
+  // display: flex;
+  // flex-wrap: wrap;
+}

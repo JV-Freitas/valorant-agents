@@ -1,0 +1,17 @@
+$white: #fff;
+$black: #000;
+
+$grey: #576574;
+$light-grey: #c8d6e5;
+$mediun-grey: #8395a7;
+$dark-grey: #222f3e;
+
+.card {
+  background: $dark-grey;
+  border-radius: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+
+  min-width: 300px;
+}
