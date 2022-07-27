@@ -2,7 +2,7 @@ const characters = [
   {
     id: 1,
     name: 'Omen',
-    role: 'Controller',
+    role: 'Controlador',
     skills: [
       'Q - PARANOIA',
       'E - MANTO SOMBRIO',
@@ -17,7 +17,7 @@ const characters = [
   {
     id: 2,
     name: 'Phoenix',
-    role: 'Duelist',
+    role: 'Duelista',
     skills: [
       'Q - BOLA CURVA',
       'E - MÃOS QUENTES',
@@ -32,7 +32,7 @@ const characters = [
   {
     id: 3,
     name: 'Sage',
-    role: 'Sentinel',
+    role: 'Sentinela',
     skills: [
       'Q - ORBE DE LENTIDÃO',
       'E - ORBE CURATIVO',
@@ -47,7 +47,7 @@ const characters = [
   {
     id: 4,
     name: 'Sova',
-    role: 'Iniciator',
+    role: 'Iniciador',
     skills: [
       'Q - FLECHA DE CHOQUE',
       'E - FLECHA RASTREADORA',
@@ -62,7 +62,7 @@ const characters = [
   {
     id: 5,
     name: 'Jett',
-    role: 'Duelist',
+    role: 'Duelista',
     skills: [
       'Q - CORRENTE ASCENDENTE',
       'E - BRISA DE IMPULSO',
@@ -77,7 +77,7 @@ const characters = [
   {
     id: 6,
     name: 'KillJoy',
-    role: 'Sentinel',
+    role: 'Sentinela',
     skills: [
       'Q - ROBÔ DE ALARME',
       'E - TORRETA',
@@ -92,7 +92,7 @@ const characters = [
   {
     id: 7,
     name: 'Brimstone',
-    role: 'Controller',
+    role: 'Controlador',
     skills: [
       'Q - INCENDIÁRIO',
       'E - FUMAÇA CELESTE',
@@ -107,7 +107,7 @@ const characters = [
   {
     id: 8,
     name: 'Raze',
-    role: 'Duelist',
+    role: 'Duelista',
     skills: [
       'Q - CARGA DE EXPLOSIVOS',
       'E - CARTUCHOS DE TINTA',
@@ -152,7 +152,7 @@ const characters = [
   {
     id: 11,
     name: 'Skye',
-    role: 'Iniciatora',
+    role: 'Iniciadora',
     skills: [
       'Q - PREDADOR EXPLOSIVO',
       'E - LUZ DESBRAVADORA',
