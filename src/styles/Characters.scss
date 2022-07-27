@@ -8,21 +8,25 @@ $dark-grey: #222f3e;
 
 $green: #10ac84;
 
-.cardRadiant {
-  background: $dark-grey;
+.card {
   border-radius: 0.5rem;
   align-items: center;
   justify-content: center;
   margin: 20px;
-
   min-width: 300px;
+  padding: 20px 10px 20px;
 }
-.cardnotRadiant {
-  background: $green;
-  border-radius: 0.5rem;
-  align-items: center;
-  justify-content: center;
-  margin: 20px;
 
-  min-width: 300px;
+.cardRadiant {
+  background: #1b77f3;
+}
+
+.cardnotRadiant {
+  background: #10ac84;
+}
+
+.bio {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
 }

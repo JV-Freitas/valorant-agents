@@ -13,11 +13,8 @@ body {
   font-size: 16px;
   text-align: center;
   background: #373b44;
-  background: -webkit-linear-gradient(to right, #4286f4, #373b44);
-  background: linear-gradient(to right, #4286f4, #373b44);
+  // background-color: #1b77f3;
+  // background-image: linear-gradient(160deg, #1b77f3 0%, #cf3c3f 100%);
 
   color: $white;
-
-  // display: flex;
-  // flex-wrap: wrap;
 }
